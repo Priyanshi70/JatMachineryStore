@@ -6,7 +6,7 @@ function About() {
       <div className="flex flex-col text-[50px] mx-[30px] md:mx-[120px]  my-[100px] justify-center items-center">
         <div className="flex-grow">
           <h1 className="my-5 md:text-[50px]  text-[40px] text-start font-rufina ">
-            About US
+            About Us
           </h1>
           <p className="md:text-lg text-[15px] leading-relaxed ">
           Welcome to Jat Machinery Stores, your trusted partner for all your machinery and equipment needs. With a rich history dating back several decades, we have been proudly serving the farming community with unparalleled expertise and dedication.
