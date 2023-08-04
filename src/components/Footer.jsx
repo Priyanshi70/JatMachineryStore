@@ -14,7 +14,9 @@ function Footer() {
         <div className="flex flex-col justify-center items-center gap-3">
           <div className="flex justify-center items-center flex-col gap-1">
             <h2 className="text-[20px] md:text-[27px]"> Jat Machinery Stores</h2>
-            <p>Fell free to connect with us!</p>
+            <p>Feel free to connect with us!
+
+            </p>
           </div>
           <div className="flex gap-2 md:gap-5">
             <a href="mailto:jatmachinery52@gmail.com">
