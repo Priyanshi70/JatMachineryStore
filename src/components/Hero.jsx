@@ -17,7 +17,7 @@ function Hero() {
           </h1>
           <p >Your one-stop shop of Hardware Machinery!
           </p>
-          <p className="md:text-[70px] text-[40px] font-bold text-start font-rufina ">Timings: 10:00AM to 8:00PM <br/>समय: प्रातः 10:00 बजे से रात्रि 8:00 बजे तक
+          <p className="">Timings: 10:00AM to 8:00PM <br/>समय: प्रातः 10:00 बजे से रात्रि 8:00 बजे तक
   </p>
           <a
             href="#footer"
