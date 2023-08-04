@@ -27,11 +27,11 @@ function Carousal() {
 
   const slideData = [
     {
-      image: pic1,
+      image: pic2,
       alt: "Slide 1",
     },
     {
-      image: pic2,
+      image: pic1,
       alt: "Slide 2",
     },
     {

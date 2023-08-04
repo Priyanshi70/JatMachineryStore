@@ -38,7 +38,7 @@ function Services() {
       className=" flex justify-center p-[50px] bg-[#145b72]  items-center flex-col "
     >
       <h1 className=" font-rufina  text-start  mb-7  md:text-[50px] text-[35px]">
-        Brands we offer!
+        Brands we offer!/ ब्रांड जो हम पेश करते हैं!
       </h1>
       <div className="grid grid-cols-3 gap-4 sm:flex justify-center items-center sm:flex-wrap">
         {images.map((image, index) => (
