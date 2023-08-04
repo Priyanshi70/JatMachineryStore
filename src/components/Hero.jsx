@@ -16,7 +16,7 @@ function Hero() {
           जाट मशीनरी स्टोर
           </h1>
           <p >Your one-stop shop of Hardware Machinery </p>
-          <p className="">Timmings: 10:00AM to 8:00PM <br/>समय: प्रातः 10:00 बजे से रात्रि 8:00 बजे तक
+          <p className="">Timings: 10:00AM to 8:00PM <br/>समय: प्रातः 10:00 बजे से रात्रि 8:00 बजे तक
   </p>
           <a
             href="#footer"
