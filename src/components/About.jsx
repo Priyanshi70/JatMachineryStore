@@ -8,7 +8,7 @@ function About() {
           <h1 className="my-5 md:text-[50px]  text-[40px] text-start font-rufina ">
             About Us
           </h1>
-          <p className="md:text-lg text-[15px] leading-relaxed ">
+          <p className="md:text-lg text-[15px] leading-relaxed text-align: justify ">
           Welcome to Jat Machinery Stores, your trusted partner for all your machinery and equipment needs. With a rich history dating back several decades, we have been proudly serving the farming community with unparalleled expertise and dedication.
 At Jat Machinery Stores, our mission is simple – to provide top-quality products and exceptional customer service that exceed expectations. As a leading machinery shop, we take pride in offering a diverse range of premium brands and models, carefully curated to cater to the modern demands of agriculture.
 We are committed to helping you find the perfect solutions for your farming requirements. Our customer-centric approach ensures that you receive personalized attention and support at every step of your journey with us.
