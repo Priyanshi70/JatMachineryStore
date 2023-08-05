@@ -23,7 +23,7 @@ function Footer() {
               {" "}
               <Image className="w-7 " src={email} alt="" />
             </a>
-            <a href="tel:+9425102926">
+            <a href="tel:9425102926">
               <Image className="w-7 " src={phone} alt="" />
             </a>
           </div>
